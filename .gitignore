@@ -161,3 +161,4 @@ cython_debug/
 
 # OTHERS
 .gittoken
+.env
